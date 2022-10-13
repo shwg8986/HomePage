@@ -1,4 +1,4 @@
-# MaterialUIの練習のために作成した個人サイトです.　Typescript(React)で作成しました. 
+# MaterialUIの練習も兼ねて作成した個人サイトです.　使用言語はTypescript(React)です.
 
 # Getting Started with Create React App
 

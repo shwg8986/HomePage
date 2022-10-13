@@ -1,4 +1,5 @@
-# MaterialUIの練習も兼ねて作成した個人サイトです.　使用言語はTypescript(React)です.
+# MaterialUIの練習も兼ねて作成した個人サイトです. まだ未完成ですが...　使用言語はTypescript(React)です.
+## こちらがサイトのURLです. https://shogo-hp.com/
 
 # Getting Started with Create React App
 

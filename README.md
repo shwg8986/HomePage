@@ -1,3 +1,5 @@
+# MaterialUIの練習のために作成した個人サイトです.　Typescript(React)で作成しました. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
